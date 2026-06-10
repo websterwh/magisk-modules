@@ -1,0 +1,7 @@
+id=documentsuigoogle-replace
+name=Replace DocumentsUIGoogle
+version=v1.0
+versionCode=1
+author=websterwh
+description=Replaces Google DocumentsUI with Material Files. Downloads latest Material Files APK on install; use action button to update.
+minMagisk=20400
