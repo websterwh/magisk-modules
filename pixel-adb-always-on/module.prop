@@ -3,4 +3,5 @@ name=Pixel ADB Always On
 version=v1.0
 versionCode=1
 author=websterwh
-description=Enables wireless ADB on port 5555 and sets USB to MTP+ADB on boot
+description=Wireless ADB, USB ADB+MTP, or both. Choose at flash or change via module action.
+action=action.sh
